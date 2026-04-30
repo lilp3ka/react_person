@@ -9,8 +9,8 @@ export const misha = {
   partnerName: 'Natasha',
 };
 
-export const olya = {
-  name: 'Olya',
+export const anna = {
+  name: 'Anna',
   sex: 'f',
   isMarried: true,
   partnerName: 'Maksym',
@@ -32,7 +32,7 @@ export const App = () => (
     </section>
 
     <section className="Person">
-      <h2 className="Person__name">My name is Olya</h2>
+      <h2 className="Person__name">My name is Anna</h2>
       <p className="Person__partner">Maksym is my husband</p>
     </section>
 
